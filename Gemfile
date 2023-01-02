@@ -48,3 +48,4 @@ end
 
 
 gem "ruby-lsp", "~> 0.3.7", :group => :development
+gem 'active_model_serializers'
